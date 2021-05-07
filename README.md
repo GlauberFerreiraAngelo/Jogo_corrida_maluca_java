@@ -7,6 +7,6 @@ O legal é que não tinha um protagonista fixo mas o pódio sempre era revezado 
 De "jogo" não tem nada mas o codigo criar uma janela onde 4 carros(imagens) disputa uma corrida onde ganhar quem chega no final da tela (direita da tela). <br />
 
 ![maquina do mal](https://github.com/GlauberFerreiraAngelo/Jogo_corrida_maluca_java/blob/main/Corrida/src/com/jogo/img/maquinadomal.png)
-![penelope charmosa](https://github.com/GlauberFerreiraAngelo/Jogo_corrida_maluca_java/blob/main/Corrida/src/com/jogo/img/penelopecharmosa.png)
+![penelopecharmosa](https://github.com/GlauberFerreiraAngelo/Jogo_corrida_maluca_java/blob/main/Corrida/src/com/jogo/img/penelopecharmosa.png)
 ![]()
 ![]()
