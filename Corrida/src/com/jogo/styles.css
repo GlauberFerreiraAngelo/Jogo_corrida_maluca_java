@@ -1,0 +1,14 @@
+.header{
+    background-color: #de1616;
+    padding: 20px;
+}
+
+.title {
+    color: blue;
+    font-size: 24px;
+}
+
+.description {
+    color: #666;
+    font-size: 16px;
+}
