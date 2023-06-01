@@ -13,10 +13,10 @@
     font-size: 16px;
 }
 
-.link {
+.a {
   color: red;
 }
 
-.link:hover {
+.a:hover {
   color: white;
 }
