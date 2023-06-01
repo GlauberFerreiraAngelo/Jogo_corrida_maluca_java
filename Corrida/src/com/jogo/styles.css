@@ -12,3 +12,11 @@
     color: #666;
     font-size: 16px;
 }
+
+.link {
+  color: red;
+}
+
+.link:hover {
+  color: white;
+}
